@@ -29,5 +29,5 @@ Skilled in **Python**, **SQL**, and **Tableau**.
 <!--
 ### 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/demianaabadir/
-- Portfolio: https://your-site.com
+
 -->
