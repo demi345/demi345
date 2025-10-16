@@ -8,8 +8,8 @@ Skilled in **Python**, **SQL**, and **Tableau**.
 ---
 
 ### 💻 Skills & Technologies
-- Python: data analysis, machine learning, automation
-- SQL: querying, ETL
+- Python: data analysis, machine learning
+- SQL: querying
 - Tableau: interactive dashboards, reporting
 
 ---
