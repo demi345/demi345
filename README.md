@@ -17,12 +17,12 @@ Skilled in **Python**, **SQL**, and **Tableau**.
 ### 📈 What I Do
 - Build predictive models and analytical solutions
 - Create dashboards to visualize business trends
-- Translate raw data into strategic insights
+- Translate raw data into insights
 
 ---
 
 ### 🌱 Learning & Interests
-- Advanced analytics, data engineering best practices
+- Advanced analytics
 - Open-source collaboration in data and BI
 
 <!-- Add your links below -->
